@@ -1,0 +1,3 @@
+﻿  AlgoAssignment2.cpp
+C:\Users\Ian Spyksma\OneDrive\Documents\University\Fall 2023-Winter 2024\Semeste2\Algorithms\AlgoAssignment2\AlgoAssignment2.cpp(73,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  AlgoAssignment2.vcxproj -> C:\Users\Ian Spyksma\OneDrive\Documents\University\Fall 2023-Winter 2024\Semeste2\Algorithms\AlgoAssignment2\x64\Debug\AlgoAssignment2.exe
